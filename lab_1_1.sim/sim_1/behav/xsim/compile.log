@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/ECE742/LAB/ece744fpga_labs-main/ece744fpga_labs-main/Labs_CheatSheet/Lab1/codeconv_method2.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'simpleCodeConv2'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/ECE742/LAB/ece744fpga_labs-main/ece744fpga_labs-main/Labs_CheatSheet/Lab1/CodeConverter_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'simpleCodeConv_test'

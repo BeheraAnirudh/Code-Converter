@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../../ece744fpga_labs-main/ece744fpga_labs-main/Labs_CheatSheet/Lab1/codeconv_method2.vhd" \
+"../../../../../ece744fpga_labs-main/ece744fpga_labs-main/Labs_CheatSheet/Lab1/CodeConverter_tb.vhd" \
+
+# Do not sort compile order
+nosort
